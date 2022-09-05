@@ -1,0 +1,18 @@
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.exe
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.deps.json
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.runtimeconfig.json
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.runtimeconfig.dev.json
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.dll
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\bin\Debug\net5.0-windows\Netflix PIN-Code BruteForce.pdb
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.csproj.AssemblyReference.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix_PIN_Code_BruteForce.Form1.resources
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.csproj.GenerateResource.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.AssemblyInfoInputs.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.AssemblyInfo.cs
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.csproj.CoreCompileInputs.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.dll
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\refint\Netflix PIN-Code BruteForce.dll
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.pdb
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\Netflix PIN-Code BruteForce.genruntimeconfig.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Debug\net5.0-windows\ref\Netflix PIN-Code BruteForce.dll

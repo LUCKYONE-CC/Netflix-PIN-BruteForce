@@ -1,0 +1,7 @@
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.csproj.AssemblyReference.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix_PIN_Code_BruteForce.Form1.resources
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.csproj.GenerateResource.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.AssemblyInfoInputs.cache
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.AssemblyInfo.cs
+D:\Programmierung\C#\Projekte\Netflix PIN-Code BruteForce\obj\Release\net5.0-windows\Netflix PIN-Code BruteForce.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Netflix PIN-Code BruteForce/1.0.0": {
+        "runtime": {
+          "Netflix PIN-Code BruteForce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Netflix PIN-Code BruteForce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
