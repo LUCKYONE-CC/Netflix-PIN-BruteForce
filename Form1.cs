@@ -41,6 +41,5 @@ namespace Netflix_PIN_Code_BruteForce
                 ErzeugeAlleKombinationen(strBegin + ch, ach, iLen - 1);
             }
         }
-        0
     }
 }
